@@ -30,10 +30,3 @@ Receives a product's attributes and returns a list of similar products based on 
 
 ### `GET /crawler?semester=n`
 Returns a list of university course names for a given semester using web scraping.
-
-## ⚙️ How to Run
-
-### Backend:
-```bash
-pip install -r requirements.txt
-python app.py
